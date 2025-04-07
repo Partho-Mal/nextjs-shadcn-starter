@@ -1,9 +1,9 @@
 Copy the code for cloning
 ```
-git clone https://github.com/Partho-Mal/nextjs-shadcn-starter project_name
+git clone https://github.com/Partho-Mal/nextjs-shadcn-starter {project_name}
 ```
 ```
-cd project_name
+cd {project_name}
 ```
 ```
 rm -rf .git
